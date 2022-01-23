@@ -1,0 +1,12 @@
+Rapport från projektet:
+1-I detta projekt använder jag react, redux och firebase. I projektet redux gör jag en middleware som lagrar 
+både tillstånd och den aktuella komponentens rekvisita till mapState-funktionen. I projektet använder jag 
+redux för auth av användare, produkter, beställning och kundvagngör en åtgärd, typer, reducerare och hjälpare.
+
+2-I projektet kopplar jag till firebase lagrar data i form av användare, produkter och beställningar och definierar
+ användarroller. Jag ansluter firebase med mitt projekt för att skapa config och utils js-filer i mitt projekt.
+
+3-projektet använder jag redux-saga för olika handlingar, typer, reducerare, hjälpare och sagor. Åtgärder är helt 
+enkelt föremål som överförs till reduceraren och är naturligt deterministiska.
+
+4-I projektet gör jag en admin och enkel användare och styling med css.Jag använder sök och filter av produkterna.
